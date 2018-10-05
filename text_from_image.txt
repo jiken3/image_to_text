@@ -1,0 +1,29 @@
+Machine learning © artificial intelligence
+
+ARTIFICIAL INTELLIGENCE
+
+Design an intelligent agent that perceives its environment and makes decisions to maximize chances of achieving its goal.
+Subfields: vision, robotics, machine learning, natural language processing, planning, ...
+
+MACHINE LEARNING
+
+Gives "computers the ability to learn without being explicitly programmed” (Arthur Samuel, 1959)
+
+UNSUPERVISED
+LEARNING
+
+Clustering, dimensionality
+reduction, recommendation
+
+SUPERVISED
+LEARNING
+
+Classification, regression
+
+REINFORCEMENT
+LEARNING
+
+Reward maximization
+
+Vem aCe en maT 2
+
